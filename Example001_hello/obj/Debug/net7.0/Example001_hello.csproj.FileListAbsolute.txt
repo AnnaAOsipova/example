@@ -1,0 +1,14 @@
+/Users/dmitry/Desktop/обучение/C#/Examples /Example001_hello/bin/Debug/net7.0/Example001_hello
+/Users/dmitry/Desktop/обучение/C#/Examples /Example001_hello/bin/Debug/net7.0/Example001_hello.deps.json
+/Users/dmitry/Desktop/обучение/C#/Examples /Example001_hello/bin/Debug/net7.0/Example001_hello.runtimeconfig.json
+/Users/dmitry/Desktop/обучение/C#/Examples /Example001_hello/bin/Debug/net7.0/Example001_hello.dll
+/Users/dmitry/Desktop/обучение/C#/Examples /Example001_hello/bin/Debug/net7.0/Example001_hello.pdb
+/Users/dmitry/Desktop/обучение/C#/Examples /Example001_hello/obj/Debug/net7.0/Example001_hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitry/Desktop/обучение/C#/Examples /Example001_hello/obj/Debug/net7.0/Example001_hello.AssemblyInfoInputs.cache
+/Users/dmitry/Desktop/обучение/C#/Examples /Example001_hello/obj/Debug/net7.0/Example001_hello.AssemblyInfo.cs
+/Users/dmitry/Desktop/обучение/C#/Examples /Example001_hello/obj/Debug/net7.0/Example001_hello.csproj.CoreCompileInputs.cache
+/Users/dmitry/Desktop/обучение/C#/Examples /Example001_hello/obj/Debug/net7.0/Example001_hello.dll
+/Users/dmitry/Desktop/обучение/C#/Examples /Example001_hello/obj/Debug/net7.0/refint/Example001_hello.dll
+/Users/dmitry/Desktop/обучение/C#/Examples /Example001_hello/obj/Debug/net7.0/Example001_hello.pdb
+/Users/dmitry/Desktop/обучение/C#/Examples /Example001_hello/obj/Debug/net7.0/Example001_hello.genruntimeconfig.cache
+/Users/dmitry/Desktop/обучение/C#/Examples /Example001_hello/obj/Debug/net7.0/ref/Example001_hello.dll
